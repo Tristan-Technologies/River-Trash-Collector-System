@@ -1,0 +1,14 @@
+Team Members:
+Voon Zhi Kai Tristan (Diploma in Aeronautical Engineering)
+Rusyaidi Bin Abdul Rashid (Diploma In Computer Engineering)
+Fang Qian (Diploma in Electrical and Electronic Engineering)
+
+Singapore Polytechnic
+
+Dynamic CFD Viewer files are provided and can be opened with the
+CFD Viewer 2019 (or later) provided by Autodesk. The XLS Spreadsheet
+is provided which contains the formula and computations performed for
+torque and power calculations.
+
+Video Link:
+https://youtu.be/h7tho4x55ls
